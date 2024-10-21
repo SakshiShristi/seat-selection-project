@@ -1,10 +1,9 @@
 # Seat Booking
 
 ## Deployed App
-https://golden-babka-110096.netlify.app/
+https://astounding-rabanadas-2e8195.netlify.app/
 
-## Video Walkthrough of the project
-https://drive.google.com/file/d/15luU-P7s7FcdXVQ7C4QRtrZY8P7HWuDW/view?usp=sharing
+
 
 ## Problem Description:
 - There are 80 seats in a coach of a train with only 7 seats in a row and last row of only 3 seats. For
@@ -39,7 +38,7 @@ functionality for this application
 - npm start
 
 ## API Endpoints
-- https://seat-booking-tg8y.onrender.com
+- https://seat-booking-backend-jmsx.onrender.com
 - GET /api/seats - get all seats
 - POST /api/seats - reset all seats booking
 - POST /api/seats/book - book n seats
