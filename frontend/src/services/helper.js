@@ -1,0 +1,1 @@
+export const BASE_URL = "https://seat-booking-backend-jmsx.onrender.com"
